@@ -1,22 +1,12 @@
 # <p align="center"> Hey there, I'm Dhairiya Chhipa! 🌱 </p>
 ### <p align="center"> Assistant Lecturer at the University of Pretoria </p>
 
+<br/>
+
 I commit the cardinal sin of looking at my keyboard while typing. I also like to play games.
+
+<!--
 
 ---
 
-
-<!--
-**DhairiyaChhipa/DhairiyaChhipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
