@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey there, I'm Dhairiya Chhipa! 🌱
+---
+
+I commit the cardinal sin of looking at my keyboard while typing. I also like to play games.
+
+---
+
 
 <!--
 **DhairiyaChhipa/DhairiyaChhipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
