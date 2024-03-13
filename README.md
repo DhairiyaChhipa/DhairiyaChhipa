@@ -1,5 +1,9 @@
-# <p align="center"> Hey there, I'm Dhairiya Chhipa! 🌱 </p>
+# <p align="center"> Hey there, I'm Dhairiya Chhipa! </p>
 ### <p align="center"> Assistant Lecturer at the University of Pretoria </p>
+
+<br/>
+
+<p align="center"> ───── ⋆⋅☆⋅⋆ ───── </p>
 
 <br/>
 
