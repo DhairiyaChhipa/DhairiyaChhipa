@@ -4,10 +4,4 @@
 
 <br/>
 
-I commit the cardinal sin of looking at my keyboard while typing. I also like to play games.
-
-<!--
-
----
-
--->
+<p align="center"> I commit the cardinal sin of looking at my keyboard while typing. I also like to play games. </p>
