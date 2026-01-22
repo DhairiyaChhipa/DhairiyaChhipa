@@ -1,7 +1,3 @@
-# <p align="center"> Hey there, I'm Dhairiya Chhipa! </p>
-
-<p align="center"> ───── ⋆⋅☆⋅⋆ ───── </p>
-
-<br/>
-
-<p align="center"> I commit the cardinal sin of looking at my keyboard while typing </p>
+<p align="center"> ════════🌿══╡°˖✧🍄✧˖°╞══🌿════════ </p>
+<p align="center"> 𝒕𝒉𝒆𝒚 𝒉𝒂𝒕𝒆 𝒎𝒆 𝒇𝒐𝒓 𝒎𝒚 𝒘𝒉𝒊𝒎𝒔𝒚 𝒂𝒏𝒅 𝒄𝒂𝒏𝒏𝒊𝒃𝒂𝒍𝒊𝒔𝒎 </p>
+<p align="center"> ════════🌿══╡°˖✧🌹✧˖°╞══🌿════════ </p>
